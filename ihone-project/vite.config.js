@@ -8,4 +8,8 @@ export default defineConfig({
     org: "jsm-x9",
     project: "javascript-react"
   })],
+
+  build: {
+    sourcemap: true
+  }
 })
